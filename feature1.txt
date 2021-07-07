@@ -1,1 +1,2 @@
-Hello at feature1 branch
+Hello at feature1 branch.
+*******
